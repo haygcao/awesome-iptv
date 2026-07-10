@@ -59,8 +59,6 @@ Applications with support of IPTV streams.
 - [IPTV Link Search](http://tonkiang.us/) - Search for public IPTV channels.
 - [Jellyfin](https://demo.jellyfin.org/) - Free and open-source media server with built-in Live TV and IPTV support (M3U playlists and XMLTV EPG).
 - [StreamVault](https://streamvault.hopto.org/) - Browser-based IPTV client supporting Xtream Codes, Stalker Portal (MAC auth), and M3U with favorites, watch history, EPG guide, and multi-connection switching. ([Source Code](https://github.com/cowpooo-source/StreamVault))
-- [IPTVCloud.app](https://iptvcloudapp.vercel.app/) - An open-source, Next.js-powered IPTV player in beta that features adaptive bitrate streaming, cloud-synced favorites, and an integrated EPG, alongside unique community engagement tools and custom channel creation.
-- [TV Explorer](https://tvexplorer.live) - Browser-based player with a live, self-updating playlist of 10,000 free-to-air channels from 177 countries with category, country, and language filtering, and multiview, casting, screenshots, and sharing with no account required.
 
 #### Windows
 
@@ -120,6 +118,7 @@ Applications with support of IPTV streams.
 - [ShallowTV](https://apps.apple.com/us/app/shallowtv/id6757123182?platform=mac) - Free IPTV player with M3U playlist support for Mac, iPhone, iPad, Apple TV and Apple Vision Pro.
 - [Streamline](https://apps.apple.com/us/app/streamline-iptv-m3u-editor/id6760606054?platform=mac) - Free M3U and IPTV playlist editor with duplicate detection, ffmpeg-based playback and a built-in HTTP server for managing playlists.
 - [StreamLucid](https://apps.apple.com/us/app/stream-lucid-live-tv-guide/id6778198664?platform=mac) - Native IPTV player and live TV guide for user-provided M3U playlists with XMLTV program guide, favorites, and iCloud sync across iPhone, iPad, Mac, and Apple TV.
+- [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=mac) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 
 #### Linux
@@ -187,6 +186,7 @@ Applications with support of IPTV streams.
 - [Smart Player](https://play.google.com/store/apps/details?id=com.mehmedmert.mediaplayer.mobile) - Allows you to manage your media, videos, streams, IP tv etc. in an easy and smart way in one place.
 - [StreamVault IPTV](https://github.com/Davidona/StreamVault-IPTV) – Feature-rich, completely free IPTV player for Android with M3U, Xtream, and Stalker support, EPG, DVR, timeshift, multi-view, and optimized large-playlist performance.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, favorites, and a companion phone app for remote text input on TV.
+- [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free player for local M3U playlists and Xtream Codes logins with EPG, favorites, VOD and series, no ads or account.
 
 #### iPhone
 
@@ -282,6 +282,7 @@ Applications with support of IPTV streams.
 - [ScoreBox](https://play.google.com/store/apps/details?id=net.darkforeststudios.scorebox) - Sports focused IPTV player that finds the channels carrying each game across your providers, for the teams and leagues you follow.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source IPTV/M3U player for Android TV with channel grouping, search, EPG, and a companion phone app for remote text input over the LAN.
 - [Easy IP TV](https://play.google.com/store/apps/details?id=com.easyiptv.tv) - Android TV and Google TV player that processes your M3U playlist server-side for instant loading of huge playlists, with an EPG guide, favorites, hidden channels, and D-pad remote navigation.
+- [Klipa](https://play.google.com/store/apps/details?id=klipa.tv) - Free M3U and Xtream Codes player with EPG and a remote-friendly layout, no ads or account.
 
 #### WebOS
 
@@ -356,6 +357,7 @@ Applications with support of IPTV streams.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
 - [EBK IPTV](https://ebkiptv.live/) - Watch online with pre-defined lists, share custom lists, add custom URLs, channel/country search, and PWA support.
 - [Free-TV IPTV](https://freetv.mokdo.click/) - More than 8,000 worldwide channels sorted by country.
+- [TV Explorer](https://tvexplorer.live) - Browser-based player with a live, self-updating playlist of 10,000 free-to-air channels from 177 countries with category, country, and language filtering, and multiview, casting, screenshots, and sharing with no account required.
 
 ## Channel Datasets
 
